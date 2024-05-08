@@ -1,4 +1,5 @@
 <?php
+
 require_once('../lib/nusoap.php');
 
 // URL WSDL dari service
@@ -53,7 +54,7 @@ if (!isset($_GET['id']) || empty($_GET['id'])) {
     <title>Update Item</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 </head>
-<body>
+<body style="background-color: teal;">
 
 <div class="container">
     <h2>Update Item</h2>

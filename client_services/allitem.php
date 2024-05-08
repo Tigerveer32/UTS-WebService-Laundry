@@ -8,10 +8,10 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 </head>
 
-<body style="background-color: cyan;">
+<body style="background-color: teal;">
 
     <div class="container">
-        <h2 style="background-color: green; color: white;">All Laundry Items</h2>
+        <h2 style=" color: white;">All Laundry Items</h2>
         <br />
         <div class="row">
             <div class="col-md-12">

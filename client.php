@@ -47,10 +47,10 @@ if (isset($_POST['sub'])) {
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 
-<body style=" background-color: cyan;">
+<body style=" background-color: teal;">
 
     <div class="container">
-        <h2 style="background-color: green; color: white;">Laundry System SOAP Web Service Client</h2>
+        <h2 style="color: white;">Laundry System SOAP Web Service Client</h2>
         <p>Enter the <strong>item</strong> and click <strong>Search Laundry Item by Item</strong>.</p>
         <br />
         <div class='row'>

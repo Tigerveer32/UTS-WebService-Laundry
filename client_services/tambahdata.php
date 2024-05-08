@@ -78,10 +78,10 @@ if (isset($_POST['addbtn'])) {
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 
-<body style=" background-color: cyan;">
+<body style="background-color: teal;">
 
     <div class="container">
-        <h2 style="background-color: green; color: white;">Add New Laundry Item</h2>
+        <h2 style="color: white;">Add New Laundry Item</h2>
         <br />
         <?php if ($error) { ?>
             <div class="alert alert-danger fade in">
